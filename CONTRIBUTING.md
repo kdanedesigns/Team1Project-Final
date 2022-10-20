@@ -30,13 +30,10 @@ If your CONTRIBUTING.md file is long, you might consider including a table of co
 <br><br>    
 #### [Resources](#resources)
 <br>
-       docs: handbook / roadmap (you'll learn more about this in the roadmapping session) <br>
-       
-       bugs: issue tracker / bug report tool <br>
-       
-       comms: forum link, developer list, IRC/email <br>
-       My favorite search engine is [Duck Duck Go](https://duckduckgo.com) 
-       <br> 
+docs: handbook / roadmap (you'll learn more about this in the roadmapping session) <br>
+bugs: issue tracker / bug report tool <br>
+comms: forum link, developer list, IRC/email <br>
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com) 
 <br><br>
 
 #### [Testing](#testing)
