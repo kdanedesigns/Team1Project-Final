@@ -35,7 +35,8 @@ If your CONTRIBUTING.md file is long, you might consider including a table of co
        bugs: issue tracker / bug report tool <br>
        
        comms: forum link, developer list, IRC/email <br>
-       My favorite search engine is [Duck Duck Go](https://duckduckgo.com) <br> 
+       My favorite search engine is [Duck Duck Go](https://duckduckgo.com) 
+       <br> 
 <br><br>
 
 #### [Testing](#testing)
