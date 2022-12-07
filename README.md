@@ -1,6 +1,6 @@
 # Team 1 Project
 - Welcome to the Repo for Team 1's project for IT115!
-- The team members are Alya Ahmed, John O'Hara, Damion Gray, Karen Dane Petersen, and Easton Martin
+- The team members are Karen Dane Petersen, John O'Hara, Alya Ahmed, and Easton Martin
 
 
 ## Index Page
