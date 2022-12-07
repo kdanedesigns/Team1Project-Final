@@ -15,17 +15,27 @@
     justify-content: center;
     flex-direction: column;
   }
+  #board-plane {
+    padding-bottom: 15px;
+  }
   #board-grid {
     display: grid;
     grid-gap: 5px;
     grid-template-rows: repeat(16, 1fr);
     grid-template-columns: repeat(16, 1fr);
   }
+  #game-result {
+    text-align: center;
+  }
   #instructions {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    padding: 3px;
+  }
+  #instructions > h3 {
+    text-align: center;
   }
   #legend {
     display: flex;
@@ -201,8 +211,10 @@ function generateGrid() {
     <h3>GOOD LUCK!</h3>
   </div>
   <h2 id='bomb-counter'></h2>
-  <div id="board-grid"></div>
-  <button id='start-button' onclick="generateGrid()">START GAME</button>
-  <h3 id="game-result"></h3>
+  <div id='board-plane'>
+    <div id="board-grid"></div>
+    <button id='start-button' onclick="generateGrid()">START GAME</button>
+    <h3 id="game-result"></h3>
+  </div>
 </body>
 </html>
