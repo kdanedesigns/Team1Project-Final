@@ -1,14 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter+Tight:wght@300;400;700&family=Inter:wght@300;400;700&family=Oi&family=Source+Sans+Pro:wght@300;400;700;900&family=Fredoka+One&display=swap");
-/*
-  I should expect the following: 
-    - accent-color
-    - accent-secondary
-    - background-color
-    - background-alt
-    - text-color
-    - text-alt
-    - text-color-inverted - what do I use this for?
-*/
 * {
   box-sizing: border-box;
 }
