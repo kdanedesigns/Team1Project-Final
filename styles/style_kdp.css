@@ -206,6 +206,12 @@ a:hover {
   border-radius: 50%;
 }
 
+.ul-gh
+{
+  list-style-image:url("../../images/github.jpg");
+  list-style-type:square;
+}
+
  /*  Tabs */
 .tab2 {
 	tab-size: 2;
