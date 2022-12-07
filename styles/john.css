@@ -166,8 +166,8 @@ p {
   border-radius: 8px;
   margin: 0 auto;
   max-height: 100%;
-  width: 100%;
-  max-width: 1920px;
+  /* width: 100%; */
+  /* max-width: 1920px; */
 }
 
 .image-wrapper {
@@ -183,6 +183,7 @@ img:not(#image-box-image):hover {
   border-radius: 8px;
   cursor: pointer;
   transform: scale(1.025);
+  z-index: 50;
 }
 @media (min-width: 1280px) {
   img:not(#image-box-image) {
