@@ -1,1 +1,36 @@
-
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
+#title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul {
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+a > li {
+  display: flex;
+  flex: 1;
+  font-size: 20px;
+  border: 2px solid orangered;
+  background-color: #14404B;
+  border-radius: 10px;
+  margin: 5px;
+  padding: 30px;
+}
+h2 {
+  text-align: center;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
