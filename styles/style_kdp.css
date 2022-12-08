@@ -207,10 +207,8 @@ a:hover {
 }
 
 /* For List - github icon instead of dot */
-.ul-gh
-{
-  list-style-image:url("/images/GithubLogoHalf.jpg");
-  list-style-type:square;
+li {
+  list-style-image: url("/images/GithubLogoHalf.jpg");
 }
 
  /*  Tabs */
