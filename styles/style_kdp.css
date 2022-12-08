@@ -57,6 +57,7 @@ ol,ul {
   flex-direction: column;
   align-items: flex-start;
   list-style-image: url("/images/GithubLogoTiny.jpg");
+  list-style-position: inside;
   line-height: 30px;
   /*padding-left: 20px;*/
 }
