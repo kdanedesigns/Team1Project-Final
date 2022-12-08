@@ -54,9 +54,19 @@ ol,ul {
 ul {
   display: flex;
   justify-content: center;
+  flex-direction: column;
   align-items: center;
   list-style-type: none;
   padding-left: 20px;
+}
+
+
+/* For List - github icon instead of dot */
+li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-image: url("/images/GithubLogoTiny.jpg");
 }
 
 
@@ -206,11 +216,6 @@ a:hover {
 /* For Previous / Next Round button */
 .round {
   border-radius: 50%;
-}
-
-/* For List - github icon instead of dot */
-li {
-  list-style-image: url("/images/GithubLogoTiny.jpg");
 }
 
  /*  Tabs */
