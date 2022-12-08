@@ -55,7 +55,8 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  padding-left: 10px;
+  padding-left: 20px;
+  box-sizing: border-box;
 }
 
 
@@ -210,7 +211,6 @@ a:hover {
 /* For List - github icon instead of dot */
 li {
   list-style-image: url("/images/GithubLogoTiny.jpg");
-  padding-left: 10px;
 }
 
  /*  Tabs */
