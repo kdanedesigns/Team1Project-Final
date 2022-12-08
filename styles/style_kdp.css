@@ -62,7 +62,7 @@ ul {
 
 
 /* For List - github icon instead of dot */
-.ul-gh > li {
+.wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
