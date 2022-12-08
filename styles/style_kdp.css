@@ -210,7 +210,7 @@ a:hover {
 /* For List - github icon instead of dot */
 li {
   list-style-image: url("/images/GithubLogoHalf.jpg");
-  padding-left 10px;
+  padding-left: 10px;
 }
 
  /*  Tabs */
